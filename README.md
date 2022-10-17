@@ -7,7 +7,8 @@
 ## A call is made from a client to a server, and data is received back over the HTTP protocol.
 
 ## HTTP methods are an integral part of a RESTful API request. 
-These methods – GET, POST, PUSH, PATCH, and DELETE – correspond to create, read, update, and delete resources.
+![image](https://user-images.githubusercontent.com/106158041/196184833-d6842b85-2811-4467-b90b-7cdaa66031fe.png)
+
 
 ## Benefits of REST API
 * Easy to learn and implement
